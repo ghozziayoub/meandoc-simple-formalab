@@ -34,3 +34,8 @@
 # Framework
 - Architecture d'un projet => Design Pattern => MVC , MVVM , MVP , Singleton ,...
 - Libraries
+# Angular CLI
+- CLI : Command Line Interface : ng
+- ng --version
+# Data Binding
+- passage des données HTML <=> TS
